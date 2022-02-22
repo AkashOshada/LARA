@@ -17,9 +17,9 @@ async def make_logo(_, message):
     imgcaption = f"""
 ☘️** Logo Created Successfully**
 ◇───────────────◇
-🔥 **Created by** : @THA_MISS_LARA_BOT
+🔥 **Created by** : @szGhostbot
 🌷 **Requestor** : {message.from_user.mention}
-⚡️ **Powered By **  : SNT™ 🇱🇰
+⚡️ **Powered By **  : SZ TEAM BOTS
 ◇───────────────◇
 """
     if len(message.command) < 2:
@@ -47,9 +47,9 @@ async def make_logo(_, message):
     imgcaption = f"""
 ☘️**write Successfully**
 ◇───────────────◇
-🔥 **Created by** :  @THA_MISS_LARA_BOT
+🔥 **Created by** :  @szGhostbot
 🌷 **Requestor** : {message.from_user.mention}
-⚡️ **Powered By **  : SNT™ 🇱🇰
+⚡️ **Powered By **  : SZ TEAM BOTS
 ◇───────────────◇
 """
     if len(message.command) < 2:
@@ -76,9 +76,9 @@ async def make_logo(_, message):
     imgcaption = f"""
 ☘️** Logo Created Successfully**
 ◇───────────────◇
-🔥 **Created by** : @THA_MISS_LARA_BOT
+🔥 **Created by** : @szGhostbot
 🌷 **Requestor** : {message.from_user.mention}
-⚡️ **Powered By **  : SNT™ 🇱🇰
+⚡️ **Powered By **  : SZ TEAM BOTS
 ◇───────────────◇
 """
     if len(message.command) < 2:
