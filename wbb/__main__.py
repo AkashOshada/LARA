@@ -110,8 +110,8 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 text="❓ Commands ❓", callback_data="bot_commands"
             ),
             InlineKeyboardButton(
-                text="📌Updates Channel📌",
-                url="https://t.me/SLNinjaTeamchannel",
+                text="👨‍💻Devoloper",
+                url="https://t.me/Oshebrosl1",
             ),
         ],
         [
@@ -120,7 +120,7 @@ home_keyboard_pm = InlineKeyboardMarkup(
                 callback_data="stats_callback",
             ),
             InlineKeyboardButton(
-                text="👨 Support 👨", url="https://t.me/SlNinjaTeam"
+                text="👨 Support 👨", url="https://t.me/slbotzone"
             ),
         ],
         [
@@ -148,7 +148,7 @@ keyboard = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="📌Updates Channel📌",
-                url="https://t.me/SLNinjaTeamchannel",
+                url="https://t.me/szteambots",
             ),
          
         ],
@@ -157,7 +157,7 @@ keyboard = InlineKeyboardMarkup(
                 text="System Stats 💻",
                 callback_data="stats_callback",
             ),
-            InlineKeyboardButton(text="👨 Support 👨", url="https://t.me/SlNinjaTeam"),
+            InlineKeyboardButton(text="👨 Support 👨", url="https://t.me/slbotzone"),
         ],
     ]
 )
